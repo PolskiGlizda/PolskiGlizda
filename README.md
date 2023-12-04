@@ -20,6 +20,6 @@ Currently I'm a Computer Science student at [Lodz University of Technology](http
 #### What can you find here
 As for now mainly configuration files(dotfiles) which can show you how my workflow works but in the future I hope you'll find here some interesting projects.
 
-#### What am I working on
+#### What am I working on 👯
 Right now I work on a Setting app for [Hyprland](https://github.com/hyprwm/Hyprland) but it's still in very early work in progress and I'll publish it here when at least alpha version will be ready for realise. As for my other projects you can check [weather](https://github.com/PolskiGlizda/weather) witch is my work in progress weather station using OpenMeteoAPI using typescript as part of learning web development in node.js(maybe someday I'll rewrite it using other technologies). Other than that I'm looking forward to help in some Open-source projects.
 
