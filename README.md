@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### About me
-Currently I'm a Computer Science student at [Lodz University of Technology](https://p.lodz.pl/en). I'm intermediate C programmer and currently I'm in the proccess of learning C++. My main focus are desktop applications but I also want to learn about web development(mainly backend as I hate working with frontend from my past experience with HTML5/CSS).
+I'm intermediate C programmer and I'm working on my GoLang skills. My main focus are desktop applications but I also want to learn about web development.
 
 #### What can you find here
 As for now mainly configuration files(dotfiles) which can show you how my workflow works but in the future I hope you'll find here some interesting projects.
