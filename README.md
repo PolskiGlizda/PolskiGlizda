@@ -20,12 +20,14 @@
 
 ### 🔭 &nbsp;Projects
 
-| Lang         | Project                                                       | Description                                                       |
-| ------------ | ------------------------------------------------------------- | ----------------------------------------------------------------- |
-| `C`          | [GShell](https://github.com/PolskiGlizda/GShell)              | POSIX-compatible shell written from scratch — zero external deps  |
-| `TypeScript` | [FormFiller](https://github.com/PolskiGlizda/FormFiller) ⭐ 7 | Automated Google Forms filler with a randomizing TUI              |
-| `Go`         | [calculator](https://github.com/PolskiGlizda/calculator)      | Terminal calculator with braille plots & live syntax highlighting |
-| `Go`         | [scaffolder](https://github.com/PolskiGlizda/scaffolder)      | Production-ready web project boilerplate generator                |
+<!-- PROJECTS-START -->
+| Lang | Project | Description |
+| --- | --- | --- |
+| `C` | [GShell](https://github.com/PolskiGlizda/GShell) | POSIX-compatible shell written from scratch — zero external deps |
+| `TypeScript` | [FormFiller](https://github.com/PolskiGlizda/FormFiller) ![Stars](https://img.shields.io/github/stars/PolskiGlizda/FormFiller?style=flat-square&color=yellow&label=⭐) | Automated Google Forms filler with a randomizing TUI |
+| `Go` | [calculator](https://github.com/PolskiGlizda/calculator) | Terminal calculator with braille plots & live syntax highlighting |
+| `Go` | [scaffolder](https://github.com/PolskiGlizda/scaffolder) | Production-ready web project boilerplate generator |
+<!-- PROJECTS-END -->
 
 ---
 
